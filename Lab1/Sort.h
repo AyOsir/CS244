@@ -5,8 +5,23 @@
 
 namespace labI
 {
-	void Sort(float data[],int size)
+     void Sort(float data[],int size)
 	{
+      for (j = 0; j < size; ++j)
+       {
+      for (k = j + 1; k < size; ++k)
+      {
+         if (number[j] > number[k])
+         {
+            temp = number[j];
+            number[j] = number[k];
+            number[k] = temp;
+         }
+      }
+   }
+   cout << "Numbers in ascending order:\n" << endl;;
+   for (i = 0; i < size; ++i)
+      cout << "%d\n" << data[i] << endl;
 		return;
 	}
 }

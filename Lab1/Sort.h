@@ -19,9 +19,6 @@ namespace labI
          }
       }
    }
-   cout << "Numbers in ascending order:\n" << endl;;
-   for (i = 0; i < size; ++i)
-      cout << "%d\n" << data[i] << endl;
 		return;
 	}
 }

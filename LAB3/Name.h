@@ -1,6 +1,6 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone
+//Author: Gregory Ayo
+//Creation: 12/7/17
 #ifndef NAME_H
 #define NAME_H
 

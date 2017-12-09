@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Barry Boubacar
 #ifndef COPY_H
 #define COPY_H
 

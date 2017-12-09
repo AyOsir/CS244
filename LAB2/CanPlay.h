@@ -1,5 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Olawale Ayejuyone
 //Creation: <Date>
 #ifndef CANPLAY_H
 #define CANPLAY_H

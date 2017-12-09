@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Gregory Ayo
 #ifndef DIAGONALWINNER_H
 #define DIAGONALWINNER_H
 

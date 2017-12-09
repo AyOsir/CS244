@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Olawale Ayejuyone
 #ifndef HASMOVE_H
 #define HASMOVE_H
 

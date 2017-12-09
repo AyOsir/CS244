@@ -1,7 +1,7 @@
 //Lab 3: Employee
-//Team: <Team Name>
-//Members: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Members: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Creation: 12/8/17
 #include "Repository.h"
 #include <fstream>
 using namespace std;

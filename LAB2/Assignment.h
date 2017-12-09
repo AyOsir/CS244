@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Gregory Ayo
 #ifndef ASSIGNMENT_H
 #define ASSIGNMENT_H
 

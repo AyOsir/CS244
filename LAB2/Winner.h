@@ -1,5 +1,5 @@
 //Team: <Team Name>
-//Author: <Names>
+//Author: Gregory Ayo
 //Creation: <Date>
 #ifndef WINNER_H
 #define WINNER_H
@@ -14,7 +14,10 @@ namespace lab2
 		{
 		  return true;
 		}
-		else {return false;}
+		else 
+		{
+			return false;
+		}
 		
 	}
 }

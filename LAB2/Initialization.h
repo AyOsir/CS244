@@ -1,6 +1,5 @@
-//Team: <Team Name>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
 //Author: Gregory Ayo
-//Creation: <Date>
 #ifndef INITIALIZE_H
 #define INITIALIZE_H
 

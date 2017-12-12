@@ -1,5 +1,5 @@
 //Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
-//Author: Barry Boubacar
+//Author: Gregory Ayo
 #ifndef COPY_H
 #define COPY_H
 

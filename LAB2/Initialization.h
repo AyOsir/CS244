@@ -1,5 +1,5 @@
 //Team: <Team Name>
-//Author: <Names>
+//Author: Gregory Ayo
 //Creation: <Date>
 #ifndef INITIALIZE_H
 #define INITIALIZE_H

@@ -9,7 +9,15 @@ namespace lab2
 {
 	TicTacToe& TicTacToe::operator=(const TicTacToe& rhs)
 	{		
-		return *this;
+	  
+		if(this!= &rhs)
+		{
+		  player = rhs.player;
+		  for (int i =0;i<9;i++)
+		  {
+		    board[i] = rhs.board[i];
+		  }
+		}
 	}
 }
 

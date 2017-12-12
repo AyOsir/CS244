@@ -10,7 +10,12 @@ namespace lab2
 {
 	bool TicTacToe::winner() const
 	{
-		return false;
+		if(diagonalWinner() || horizontalWinner() || verticalWinner())
+		{
+		  return true;
+		}
+		else {return false;}
+		
 	}
 }
 

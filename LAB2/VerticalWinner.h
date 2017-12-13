@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Barry Boubacar
 #ifndef VERTICALWINNER_H
 #define VERTICALWINNER_H
 

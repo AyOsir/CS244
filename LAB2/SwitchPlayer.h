@@ -1,5 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Barry Boubacar
 //Creation: <Date>
 #ifndef SWITCHPLAYER_H
 #define SWITCHPLAYER_H

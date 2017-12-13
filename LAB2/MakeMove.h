@@ -10,7 +10,10 @@ namespace lab2
 {
 	bool TicTacToe::makeMove(int position)
 	{			
-		return false;
+		if(board[position]=='-')
+		{
+		  position = TOKENS[player];
+		}
 	}
 }
 

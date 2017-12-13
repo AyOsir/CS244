@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Olawale Ayejuyone
 #ifndef MAKEMOVE_H
 #define MAKEMOVE_H
 

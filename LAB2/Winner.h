@@ -1,6 +1,5 @@
-//Team: <Team Name>
-//Author: Gregory Ayo
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Olawale Ayejuyone
 #ifndef WINNER_H
 #define WINNER_H
 

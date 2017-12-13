@@ -10,7 +10,11 @@ namespace lab2
 {
 	bool TicTacToe::canPlay() const
 	{	
-		return false;
+		if(!winner())
+		{
+		  return true;
+		}
+		  
 	}
 }
 

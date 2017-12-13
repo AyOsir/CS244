@@ -1,5 +1,5 @@
 //Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
-//Author: Barry Boubacar
+//Author: Olawale Ayejuyone
 #ifndef SWITCHPLAYER_H
 #define SWITCHPLAYER_H
 

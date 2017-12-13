@@ -1,5 +1,5 @@
-//Team: 
-//Author: 
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Author: Barry Boubacar
 #ifndef BOARD_H
 #define BOARD_H
 
@@ -11,9 +11,9 @@ namespace lab2
 	{	
 		std::stringstream out;
 		out << "Player " << player <<"\n\n"; 
-		out << board[0] << " " << board[1] << " " << board[2] << "\n";
+		out << board[0] << board[1] << " " << board[2] << "\n";
 		out << board[3] <<" "<< board[4] <<" "<< board[5] << "\n";
-		out << board[6] <<" "<< board[7] <<" "<< board[8] << "\n";
+		out << board[6] <<" "<< board[7] << board[8] << "\n";
 		std::string oout = out.str();
 		return oout;
 	}

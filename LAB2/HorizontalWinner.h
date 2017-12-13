@@ -1,5 +1,5 @@
 //Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
-//Author: Gregory Ayo
+//Author: Barry Boubacar
 #ifndef HORIZONTALWINNER_H
 #define HORIZONTALWINNER_H
 

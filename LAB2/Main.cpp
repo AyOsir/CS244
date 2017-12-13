@@ -1,6 +1,6 @@
 //Lab 2 : Tic Tac Toe
-//Team: <Team Name>
-//Members: <Names>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
+//Members: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
 //Creation: <Date>
 #include "Repository.h"
 #include <fstream>

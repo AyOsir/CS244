@@ -1,5 +1,5 @@
 //Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
-//Author: Gregory Ayo
+//Author: Barry Boubacar
 #ifndef HASMOVE_H
 #define HASMOVE_H
 

@@ -1,7 +1,5 @@
 //Lab 4: Tower of Hanoi
-//Team: <Team Name>
-//Members: <Names>
-//Creation: <Date>
+//Team: Gregory Ayo , Olawale Ayejuyone, Barry Boubacar
 #include "Repository.h"
 #include <fstream>
 using namespace std;
